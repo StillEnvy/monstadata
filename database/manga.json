@@ -1,0 +1,43 @@
+/* Version Tracking: manga.json V1.0 Rev 0 */
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongsaljaui Moosanghoegwi, The Peerless Regression of the Dragon Slayer, 용살자의 무쌍회귀",
+  "status": "Ongoing",
+  "author": "Woo Gak",
+  "artist": "Do-myeong",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Manhwa",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": "4.8",
+  "synopsis": "Slayer naga terkuat, Siegfried, gugur dalam pertempuran sengit melawan Raja Naga. Namun, alih-alih menemui ajalnya, ia terbangun kembali di masa lalu saat dirinya masih menjadi seorang prajurit tingkat rendah yang belum memiliki apa-apa. Dengan ingatan masa depan, teknik bertarung yang matang, dan tekad untuk mencegah kehancuran dunia, Siegfried memulai kembali perjalanannya untuk menjadi Dragonslayer yang tak tertandingi sejak awal.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Prolog: Kejatuhan sang Pahlawan",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/a-dragonslayers-peerless-regression/ch-02/004.jpg"
+      ]
+    }
+  ]
+}
